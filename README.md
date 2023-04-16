@@ -14,6 +14,8 @@ TADA !
 
 PS : C'est une archive de 50, donc ça lag a l'ouverture c'est normal.
 
+PPS : ça marche pas sous firefox, utilisez edge/Chrome/Opera
+
 Je vous conseille de fermer les trucs qui bouffent bcp pour diminuer le chargement
 
 Bisous <3
